@@ -113,14 +113,6 @@ def create_image(path):
 - [ ] **Streamlit/Gradio App** for inference.
 - [ ] **Cross-validation** & Ablation studies.
 
-## 📄 License
-
-MIT © 2024 - Free for research/education.
-
-## 📞 Contact
-
-For issues: Check notebook. Contributions welcome!
-
 ---
 
 **Project Files**:
